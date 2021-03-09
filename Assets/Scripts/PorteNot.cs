@@ -15,6 +15,11 @@ public  class PorteNot : Porte{
         return this.output;
     }
 
+
+    public  override void removePrevious(Composant p){
+        this.state = -1;
+        base.removePrevious(p);
+    }
     
 
 }

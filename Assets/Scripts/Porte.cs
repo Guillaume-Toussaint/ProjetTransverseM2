@@ -42,7 +42,7 @@ public abstract class Porte : Composant{
     }
 
 
-        public void removePrevious(Composant composant){
+        public virtual void removePrevious(Composant composant){
         if(composant.Equals(this.previous[0])){
             this.previous[0]= null;
 
