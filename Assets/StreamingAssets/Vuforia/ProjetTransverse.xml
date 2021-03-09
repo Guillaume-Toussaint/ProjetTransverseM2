@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="END" size="6.500000 10.026906" />
+    <ImageTarget name="START" size="6.500000 10.026906" />
+    <ImageTarget name="XNOR" size="6.500000 10.026906" />
+    <ImageTarget name="XOR" size="6.500000 10.026906" />
+    <ImageTarget name="NOR" size="6.500000 10.026906" />
+    <ImageTarget name="NAND" size="6.500000 10.026906" />
+    <ImageTarget name="OR" size="6.500000 10.026906" />
+    <ImageTarget name="AND" size="6.500000 10.026906" />
+    <ImageTarget name="NOT" size="6.500000 10.026906" />
+    <ImageTarget name="Buffer" size="6.500000 10.026906" />
+  </Tracking>
+</QCARConfig>
