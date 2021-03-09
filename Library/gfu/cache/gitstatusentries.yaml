@@ -1,0 +1,810 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-03-08T22:02:43.482+01:00
+  initializedAtString: 2021-03-08T21:39:20.313+01:00
+  entries:
+  - path: AND.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\AND.jpg
+    projectPath: AND.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Common\sample_version
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Common\sample_version
+    projectPath: Assets\Common\sample_version
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Common\sample_version.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Common\sample_version.meta
+    projectPath: Assets\Common\sample_version.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\AND_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\AND_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\AND_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\AND_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\AND_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\AND_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\Buffer_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\Buffer_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\Buffer_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\Buffer_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\Buffer_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\Buffer_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\END_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\END_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\END_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\END_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\END_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\END_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NAND_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NAND_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NAND_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NAND_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NAND_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NAND_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOR_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOR_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOR_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOR_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOR_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOR_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOT_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOT_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOT_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOT_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOT_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\NOT_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\OR_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\OR_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\OR_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\OR_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\OR_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\OR_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\START_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\START_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\START_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\START_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\START_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\START_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XNOR_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XNOR_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XNOR_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XNOR_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XNOR_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XNOR_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XOR_scaled.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XOR_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XOR_scaled.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XOR_scaled.jpg.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XOR_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\ProjetTransverse\XOR_scaled.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\VuforiaConfiguration.asset
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Resources\VuforiaConfiguration.asset
+    projectPath: Assets\Resources\VuforiaConfiguration.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\StreamingAssets.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\StreamingAssets.meta
+    projectPath: Assets\StreamingAssets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\Vuforia.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\StreamingAssets\Vuforia.meta
+    projectPath: Assets\StreamingAssets\Vuforia.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\Vuforia\ProjetTransverse.dat
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\StreamingAssets\Vuforia\ProjetTransverse.dat
+    projectPath: Assets\StreamingAssets\Vuforia\ProjetTransverse.dat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\Vuforia\ProjetTransverse.dat.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\StreamingAssets\Vuforia\ProjetTransverse.dat.meta
+    projectPath: Assets\StreamingAssets\Vuforia\ProjetTransverse.dat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\Vuforia\ProjetTransverse.xml
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\StreamingAssets\Vuforia\ProjetTransverse.xml
+    projectPath: Assets\StreamingAssets\Vuforia\ProjetTransverse.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\Vuforia\ProjetTransverse.xml.meta
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Assets\StreamingAssets\Vuforia\ProjetTransverse.xml.meta
+    projectPath: Assets\StreamingAssets\Vuforia\ProjetTransverse.xml.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Buffer.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Buffer.jpg
+    projectPath: Buffer.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: END.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\END.jpg
+    projectPath: END.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\091cbf3a5617c75ad2c3b6e92e05e297
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\09\091cbf3a5617c75ad2c3b6e92e05e297
+    projectPath: Library\Artifacts\09\091cbf3a5617c75ad2c3b6e92e05e297
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0f886b4b6781114624c8798e33a8237f
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\0f\0f886b4b6781114624c8798e33a8237f
+    projectPath: Library\Artifacts\0f\0f886b4b6781114624c8798e33a8237f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\11\11978e1f414f48f068faa2c9d2e78adb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\11\11978e1f414f48f068faa2c9d2e78adb
+    projectPath: Library\Artifacts\11\11978e1f414f48f068faa2c9d2e78adb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\18bcdedcc7130e789a69910177fdd550
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\18\18bcdedcc7130e789a69910177fdd550
+    projectPath: Library\Artifacts\18\18bcdedcc7130e789a69910177fdd550
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\227c392ff36181ad9a5ff7a7905d8c7f
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\22\227c392ff36181ad9a5ff7a7905d8c7f
+    projectPath: Library\Artifacts\22\227c392ff36181ad9a5ff7a7905d8c7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\24\24e803c626482cca63fb0f80648d3b5e
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\24\24e803c626482cca63fb0f80648d3b5e
+    projectPath: Library\Artifacts\24\24e803c626482cca63fb0f80648d3b5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2b\2b11b2e7e7a82e44b12e120666f9b382
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\2b\2b11b2e7e7a82e44b12e120666f9b382
+    projectPath: Library\Artifacts\2b\2b11b2e7e7a82e44b12e120666f9b382
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d9b8f808ee8218b492cb5bf57472315
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\2d\2d9b8f808ee8218b492cb5bf57472315
+    projectPath: Library\Artifacts\2d\2d9b8f808ee8218b492cb5bf57472315
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f792cf19438ed34019746df6cd10b48
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\2f\2f792cf19438ed34019746df6cd10b48
+    projectPath: Library\Artifacts\2f\2f792cf19438ed34019746df6cd10b48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3aa1eb25659dc29dab6633a92df94278
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\3a\3aa1eb25659dc29dab6633a92df94278
+    projectPath: Library\Artifacts\3a\3aa1eb25659dc29dab6633a92df94278
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4caf9f69437717389d7b16c1c7c380b4
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\4c\4caf9f69437717389d7b16c1c7c380b4
+    projectPath: Library\Artifacts\4c\4caf9f69437717389d7b16c1c7c380b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b0eb981bac5613e4f3e646929a73b94
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\5b\5b0eb981bac5613e4f3e646929a73b94
+    projectPath: Library\Artifacts\5b\5b0eb981bac5613e4f3e646929a73b94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c0d073ac245ac4da85713b16008e7d3
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\5c\5c0d073ac245ac4da85713b16008e7d3
+    projectPath: Library\Artifacts\5c\5c0d073ac245ac4da85713b16008e7d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5d1a740a61340f8d35ef32274a3bbfdc
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\5d\5d1a740a61340f8d35ef32274a3bbfdc
+    projectPath: Library\Artifacts\5d\5d1a740a61340f8d35ef32274a3bbfdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\606122a690069ddf8c0185f4b4ef19e9
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\60\606122a690069ddf8c0185f4b4ef19e9
+    projectPath: Library\Artifacts\60\606122a690069ddf8c0185f4b4ef19e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\613b5200281a6a1f42b9e5f260a06532
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\61\613b5200281a6a1f42b9e5f260a06532
+    projectPath: Library\Artifacts\61\613b5200281a6a1f42b9e5f260a06532
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\61f7ebb501e1683831cbc503f70a53ac
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\61\61f7ebb501e1683831cbc503f70a53ac
+    projectPath: Library\Artifacts\61\61f7ebb501e1683831cbc503f70a53ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\6780f18b1a2e46ee212e98651300165a
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\67\6780f18b1a2e46ee212e98651300165a
+    projectPath: Library\Artifacts\67\6780f18b1a2e46ee212e98651300165a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6db70c067f6267f1fe01db3d27a4442c
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\6d\6db70c067f6267f1fe01db3d27a4442c
+    projectPath: Library\Artifacts\6d\6db70c067f6267f1fe01db3d27a4442c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\72a5854ac3b6ed14ce88171675ed7acd
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\72\72a5854ac3b6ed14ce88171675ed7acd
+    projectPath: Library\Artifacts\72\72a5854ac3b6ed14ce88171675ed7acd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7ad998c4c1e83cc10a82a9dd51243ac8
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\7a\7ad998c4c1e83cc10a82a9dd51243ac8
+    projectPath: Library\Artifacts\7a\7ad998c4c1e83cc10a82a9dd51243ac8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7f\7f26aa7fe95961a53ba4b8938c7e85ca
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\7f\7f26aa7fe95961a53ba4b8938c7e85ca
+    projectPath: Library\Artifacts\7f\7f26aa7fe95961a53ba4b8938c7e85ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\86\8623a1e1c756daa60318bbd792e2797e
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\86\8623a1e1c756daa60318bbd792e2797e
+    projectPath: Library\Artifacts\86\8623a1e1c756daa60318bbd792e2797e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\89fa098065898b3e9559e311277bd2af
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\89\89fa098065898b3e9559e311277bd2af
+    projectPath: Library\Artifacts\89\89fa098065898b3e9559e311277bd2af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c67210839ab31dc36b4251d17b1cc41
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\8c\8c67210839ab31dc36b4251d17b1cc41
+    projectPath: Library\Artifacts\8c\8c67210839ab31dc36b4251d17b1cc41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8efbc8c23fd43bc54aa0c20d27294486
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\8e\8efbc8c23fd43bc54aa0c20d27294486
+    projectPath: Library\Artifacts\8e\8efbc8c23fd43bc54aa0c20d27294486
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c95e883f7f3475c47905a2d0b57335d
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\9c\9c95e883f7f3475c47905a2d0b57335d
+    projectPath: Library\Artifacts\9c\9c95e883f7f3475c47905a2d0b57335d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a717d1be79e5714f4eba7f6d84df0598
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\a7\a717d1be79e5714f4eba7f6d84df0598
+    projectPath: Library\Artifacts\a7\a717d1be79e5714f4eba7f6d84df0598
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b7c1235e76d578a7de744099117731fb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\b7\b7c1235e76d578a7de744099117731fb
+    projectPath: Library\Artifacts\b7\b7c1235e76d578a7de744099117731fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d8\d8dae4d53d9fbe2ba30898f42182fb13
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\d8\d8dae4d53d9fbe2ba30898f42182fb13
+    projectPath: Library\Artifacts\d8\d8dae4d53d9fbe2ba30898f42182fb13
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d90fd96ff1cdbc4bd71ba014fe112a2e
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\d9\d90fd96ff1cdbc4bd71ba014fe112a2e
+    projectPath: Library\Artifacts\d9\d90fd96ff1cdbc4bd71ba014fe112a2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e0\e00e82a96e085b939571a30eb205b071
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\e0\e00e82a96e085b939571a30eb205b071
+    projectPath: Library\Artifacts\e0\e00e82a96e085b939571a30eb205b071
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f1\f138097c9046d7aad93346db347303da
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\f1\f138097c9046d7aad93346db347303da
+    projectPath: Library\Artifacts\f1\f138097c9046d7aad93346db347303da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f721149b23177e9efc300ca2e903c675
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\f7\f721149b23177e9efc300ca2e903c675
+    projectPath: Library\Artifacts\f7\f721149b23177e9efc300ca2e903c675
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\faba3ce0b635d06cda723689712ac6a2
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\fa\faba3ce0b635d06cda723689712ac6a2
+    projectPath: Library\Artifacts\fa\faba3ce0b635d06cda723689712ac6a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fc\fcfbd18fef8723e67d48b3e2eb1c168c
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\Artifacts\fc\fcfbd18fef8723e67d48b3e2eb1c168c
+    projectPath: Library\Artifacts\fc\fcfbd18fef8723e67d48b3e2eb1c168c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\EditorMigrationScripts.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\EditorMigrationScripts.dll
+    projectPath: Library\ScriptAssemblies\EditorMigrationScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\EditorMigrationScripts.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\EditorMigrationScripts.pdb
+    projectPath: Library\ScriptAssemblies\EditorMigrationScripts.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaScripts.dll
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\VuforiaScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaScripts.pdb
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ScriptAssemblies\VuforiaScripts.pdb
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\2\291d9399b5fba2bb8e9205567275f093.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\2\291d9399b5fba2bb8e9205567275f093.bin
+    projectPath: Library\ShaderCache\2\291d9399b5fba2bb8e9205567275f093.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2f3ff85994ac47564288ced2045a8662.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\2\2f3ff85994ac47564288ced2045a8662.bin
+    projectPath: Library\ShaderCache\2\2f3ff85994ac47564288ced2045a8662.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\39a4f8e71710718c2c6bf241f7ef21aa.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\3\39a4f8e71710718c2c6bf241f7ef21aa.bin
+    projectPath: Library\ShaderCache\3\39a4f8e71710718c2c6bf241f7ef21aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5a87629390dd8f0b6420ec58bf363103.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\5\5a87629390dd8f0b6420ec58bf363103.bin
+    projectPath: Library\ShaderCache\5\5a87629390dd8f0b6420ec58bf363103.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\755b3cead65305d84bf2af075931f7ff.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\7\755b3cead65305d84bf2af075931f7ff.bin
+    projectPath: Library\ShaderCache\7\755b3cead65305d84bf2af075931f7ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7d148de4ee274f1344827f3f4a376ec5.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\7\7d148de4ee274f1344827f3f4a376ec5.bin
+    projectPath: Library\ShaderCache\7\7d148de4ee274f1344827f3f4a376ec5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\850661a59076407483bd3d3b142432ab.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\8\850661a59076407483bd3d3b142432ab.bin
+    projectPath: Library\ShaderCache\8\850661a59076407483bd3d3b142432ab.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9266d6a74d2d286a51d67bc7fc7a2352.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\9\9266d6a74d2d286a51d67bc7fc7a2352.bin
+    projectPath: Library\ShaderCache\9\9266d6a74d2d286a51d67bc7fc7a2352.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\960ad4c07fab97a0f4ba78368e33a424.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\9\960ad4c07fab97a0f4ba78368e33a424.bin
+    projectPath: Library\ShaderCache\9\960ad4c07fab97a0f4ba78368e33a424.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bacf04d2060b77bf904e787bdb991fd1.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\b\bacf04d2060b77bf904e787bdb991fd1.bin
+    projectPath: Library\ShaderCache\b\bacf04d2060b77bf904e787bdb991fd1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d43eadab2639c11a24f3a74b0fe66292.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\d\d43eadab2639c11a24f3a74b0fe66292.bin
+    projectPath: Library\ShaderCache\d\d43eadab2639c11a24f3a74b0fe66292.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dddcf35888c36ebee5db8f775e69dac9.bin
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\ShaderCache\d\dddcf35888c36ebee5db8f775e69dac9.bin
+    projectPath: Library\ShaderCache\d\dddcf35888c36ebee5db8f775e69dac9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: NAND.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\NAND.jpg
+    projectPath: NAND.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: NOR.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\NOR.jpg
+    projectPath: NOR.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: NOT.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\NOT.jpg
+    projectPath: NOT.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: OR.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\OR.jpg
+    projectPath: OR.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjetTransverse.unitypackage
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\ProjetTransverse.unitypackage
+    projectPath: ProjetTransverse.unitypackage
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: START.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\START.jpg
+    projectPath: START.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: XNOR.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\XNOR.jpg
+    projectPath: XNOR.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: XOR.jpg
+    fullPath: E:\Hamza\M2SC\Projet Transverse\ProjetTransverseM2\XOR.jpg
+    projectPath: XOR.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
